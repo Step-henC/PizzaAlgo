@@ -7,3 +7,6 @@
 5. Wait for delivery
 6. Greet delivery driver
 7. See step 4b if necessary
+8. If wrong Order
+    8a. Ask for new pizza
+    8b. Ask for money back and order from different store

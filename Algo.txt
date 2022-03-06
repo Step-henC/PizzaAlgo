@@ -1,6 +1,9 @@
 1. Decide the pizza place
 2. Decide what type of pizza I want
 3. Call the pizza place
+    If no one answers
+        Visit store
+        Call new store
 4. Order the pizza
     4a. Pay over phone
     4b. Pay at door
